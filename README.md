@@ -1,6 +1,3 @@
 # hello-world
-Ramp up!
+Add a new branch: b1
 
-Hello World!
-
-It is first day I use the github! Let me fighting!
